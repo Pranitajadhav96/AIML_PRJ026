@@ -1,4 +1,4 @@
- Python
-Machine learning 
-deep learning
+ Python ,
+Machine learning,
+deep learning,
 GEN_AI
